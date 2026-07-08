@@ -3,4 +3,5 @@
 // foi criado a tela de login
 // realizado o teste da tela de login
 // criacao da tela de cadastro
+// realizado os testes da tela de cadastro
 ?>
